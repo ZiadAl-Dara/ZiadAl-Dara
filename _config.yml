@@ -1,0 +1,19 @@
+title: ZiadAl-Dara.github.io
+author: ZiadAl-Dara
+description: >
+  Just a blog, for now.
+
+show_excerpts: false
+
+minima:
+  date_format: "%Y-%m-%d"
+
+twitter_username: ZiadAl-Dara
+github_username: ZiadAl-Dara
+rss: rss
+
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag

@@ -1,0 +1,5 @@
+_site
+.bundle
+Gemfile
+Gemfile.lock
+.DS_Store
